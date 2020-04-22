@@ -1,0 +1,20 @@
+2020-04-07 16:24:31,923 DEBUG c.r.m.MoneyHandler [main] transfer from CheckingsExmaple to checkingsExampleForTransfer of 5 points
+2020-04-07 16:24:31,945 DEBUG c.r.m.MoneyHandler [main] Withdraw from nullAccount namedCheckingsExmaple 5 points taken
+2020-04-07 16:24:31,949 DEBUG c.r.m.MoneyHandler [main] transfer from CheckingsExmaple to checkingsExampleForTransfer of 5 points
+2020-04-07 16:24:31,954 DEBUG c.r.m.MoneyHandler [main] deposited to nullAccount namedCheckingsExmaple 5 points added
+2020-04-07 16:56:29,217 DEBUG c.r.m.MoneyHandler [main] transfer from CheckingsExmaple to checkingsExampleForTransfer of 5 points
+2020-04-07 16:56:29,247 DEBUG c.r.m.MoneyHandler [main] Withdraw from nullAccount namedCheckingsExmaple 5 points taken
+2020-04-07 16:56:29,249 DEBUG c.r.m.MoneyHandler [main] transfer from CheckingsExmaple to checkingsExampleForTransfer of 5 points
+2020-04-07 16:56:29,251 DEBUG c.r.m.MoneyHandler [main] deposited to nullAccount namedCheckingsExmaple 5 points added
+2020-04-07 20:24:17,576 DEBUG c.r.m.MoneyHandler [main] deposited to com.revature.model.User@4ede87beAccount namedDisneyFund 100 points added
+2020-04-07 21:28:02,009 DEBUG c.r.m.MoneyHandler [main] deposited to com.revature.model.User@44b03bfAccount namedDisneyFund 1000 points added
+2020-04-07 21:30:14,745 DEBUG c.r.m.MoneyHandler [main] Withdraw from com.revature.model.User@4eb59e58Account namedDisneyFund 234 points taken
+2020-04-07 21:34:19,812 DEBUG c.r.m.MoneyHandler [main] transfer from CheckingsExmaple to checkingsExampleForTransfer of 5 points
+2020-04-07 21:34:19,828 DEBUG c.r.m.MoneyHandler [main] Withdraw from nullAccount namedCheckingsExmaple 5 points taken
+2020-04-07 21:34:19,830 DEBUG c.r.m.MoneyHandler [main] transfer from CheckingsExmaple to checkingsExampleForTransfer of 5 points
+2020-04-07 21:34:19,832 DEBUG c.r.m.MoneyHandler [main] deposited to nullAccount namedCheckingsExmaple 5 points added
+2020-04-07 21:50:50,250 DEBUG c.r.m.MoneyHandler [main] deposited to com.revature.model.User@4ee31374Account namedDisneyFund 100 points added
+2020-04-08 11:20:29,309 DEBUG c.r.m.MoneyHandler [main] deposited to com.revature.model.User@e4373768Account namedchecking 1000000 points added
+2020-04-08 11:20:47,065 DEBUG c.r.m.MoneyHandler [main] Withdraw from com.revature.model.User@e3c7d87dAccount namedchecking 245 points taken
+2020-04-08 11:21:12,705 DEBUG c.r.m.MoneyHandler [main] transfer from checking to checking of 200 points
+2020-04-08 11:22:26,529 DEBUG c.r.m.MoneyHandler [main] Withdraw from com.revature.model.User@43b8f21Account namedDisneyFund 100 points taken
